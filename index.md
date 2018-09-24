@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/brunhildemohua/blog180921.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brunhildemohua/blog180921.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 安徽师范大学
+## Anhui Normal University
+安徽师范大学（Anhui Normal University），简称安师大（AHNU），学校坐落在安徽省芜湖市，是安徽省建校最早的高等学府。
+学校是安徽省人民政府与中华人民共和国教育部共建高校，入选国家“中西部高校基础能力建设工程”、“卓越教师培养计划”，是安徽省高等教育振兴计划首批四所“”地方特色高水平大学建设项目”和“高水平大学奖补资金项目”支持高校之一，全国首批具有接受公费来华留学生资格的高校、全国首批硕士研究生学位授予权高校、中国政府奖学金来华留学生接收院校、国家华文教育基地、安徽省汉语国际推广中心，学校具有副教授自审权和推荐免试研究生资格，也是安徽省优先建设的综合性省属重点大学。
+学校前身是1928年创建于安庆市的省立安徽大学，1946年更名为国立安徽大学，1949年成建制迁至芜湖。后经历安徽师范学院、合肥师范学院、皖南大学、安徽工农大学等数个办学阶段。1972年，经国务院批准，正式定名为安徽师范大学。2005年，芜湖师范专科学校整体并入安徽师范大学。
+截至2018年3月，学校拥有赭山、花津两个校区，校园占地总面积195.25万平方米，建筑面积98.47万平方米，仪器设备总值5.45亿元。现有图书294万余册，古籍善本700余种。有8个博士学位授权一级学科，29个硕士学位授权一级学科，14个专业学位授权点，5个博士后流动站，18个省级重点学科，3个省级学科建设重大项目，88个本科专业。
